@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<GraFo>
+    <Modo>
+        <Representacion_de_Grafo>0</Representacion_de_Grafo>
+        <Tipo_de_Grafo>2</Tipo_de_Grafo>
+    </Modo>
+    <Vertice id="0">
+        <Nombre>a</Nombre>
+        <Posicion_X>100.0</Posicion_X>
+        <Posicion_Y>69.0</Posicion_Y>
+    </Vertice>
+    <Vertice id="1">
+        <Nombre>b</Nombre>
+        <Posicion_X>412.0</Posicion_X>
+        <Posicion_Y>69.0</Posicion_Y>
+    </Vertice>
+    <Vertice id="2">
+        <Nombre>c</Nombre>
+        <Posicion_X>95.0</Posicion_X>
+        <Posicion_Y>192.0</Posicion_Y>
+    </Vertice>
+    <Vertice id="3">
+        <Nombre>d</Nombre>
+        <Posicion_X>434.0</Posicion_X>
+        <Posicion_Y>188.0</Posicion_Y>
+    </Vertice>
+    <Vertice id="4">
+        <Nombre>e</Nombre>
+        <Posicion_X>515.0</Posicion_X>
+        <Posicion_Y>273.0</Posicion_Y>
+    </Vertice>
+    <Arista id="0">
+        <Vertice_origen>0</Vertice_origen>
+        <Vertice_fin>1</Vertice_fin>
+        <Peso>35</Peso>
+    </Arista>
+    <Arista id="1">
+        <Vertice_origen>0</Vertice_origen>
+        <Vertice_fin>2</Vertice_fin>
+        <Peso>27</Peso>
+    </Arista>
+    <Arista id="2">
+        <Vertice_origen>2</Vertice_origen>
+        <Vertice_fin>3</Vertice_fin>
+        <Peso>29</Peso>
+    </Arista>
+    <Arista id="3">
+        <Vertice_origen>3</Vertice_origen>
+        <Vertice_fin>1</Vertice_fin>
+        <Peso>14</Peso>
+    </Arista>
+    <Arista id="4">
+        <Vertice_origen>3</Vertice_origen>
+        <Vertice_fin>4</Vertice_fin>
+        <Peso>15</Peso>
+    </Arista>
+</GraFo>
